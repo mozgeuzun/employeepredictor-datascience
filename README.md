@@ -1,4 +1,5 @@
 # Introduction
+
 Employee attrition, also known as turnover, refers to the process of employees leaving an 
 organization and being replaced by new hires. High levels of employee attrition can have 
 negative impacts on a business, including increased costs for recruiting and training new 
@@ -7,13 +8,13 @@ remaining employees. Therefore, understanding the factors that contribute to emp
 attrition and developing strategies to prevent it is important for businesses to maintain a 
 stable and productive workforce.
 My Dataset is “ [Employee Attrition](https://www.kaggle.com/datasets/HRAnalyticRepository/employee-attrition-data) ” which shows employees that are active 
-and those that terminated in 10 years. To acquire the dataset for our employee attrition data 
-science project, we accessed it through the Kaggle API. Kaggle is a popular platform for data 
+and those that terminated in 10 years. To acquire the dataset for my employee attrition data 
+science project, i accessed it through the Kaggle API. Kaggle is a popular platform for data 
 scientists and machine learning practitioners to find and share datasets, as well as participate 
 in data science competitions.
 The purpose of this project is to determine if individual terminations can be predicted from 
 the data provided so that human resources of the business would take required actions. 
-Overall, our data science project on employee attrition can provide valuable insights and 
+Overall, my data science project on employee attrition can provide valuable insights and 
 recommendations for businesses looking to reduce turnover and improve the stability and 
 productivity of their workforce.
 
@@ -22,6 +23,7 @@ productivity of their workforce.
 ![findings](https://user-images.githubusercontent.com/76754183/216830799-2bce3241-db0d-4c1e-a416-b29f058c4429.PNG)
 
 # Conclusion
+
 In summary, the main objective of this project was to identify key factors that contribute to 
 employee attrition in a company and develop a model to predict employee turnover. To 
 achieve this, I first performed a thorough data exploration and preprocessing phase to 
@@ -39,6 +41,7 @@ or addressing specific issues that are causing employees to leave. Additionally,
 could consider implementing interventions or programs specifically targeted at improving 
 retention among employees with certain characteristics, such as those with shorter lengths 
 of service or certain job titles.
+
 One limitation of this analysis is that it is based on a single company's data, and may not be 
 generalizable to other organizations. Additionally, my model only predicts employee 
 turnover, and does not provide information on how to prevent it. It is also important to note 
